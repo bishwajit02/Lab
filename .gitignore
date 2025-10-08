@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# C++
+*.exe
+*.out
+*.o
+*.obj
+solar_viz
+solar_viz.exe
+*.dll
+*.so
+*.dylib
+
+# Gnuplot generated files
+data_*.txt
+plot*.gnu
+!solar_viz.gnu
+
+# Processing
+.DS_Store
+application.*/
+applet/
+
+# Generated images (optional - comment out if you want to commit them)
+# *.png
+# *.jpg
+# *.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
